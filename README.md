@@ -1,7 +1,5 @@
 # Privacy Policy for Recipe Minimalist
 
-**Last Updated: October 2024**
-
 Recipe Minimalist ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application.
 
 
